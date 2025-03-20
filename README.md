@@ -27,7 +27,7 @@ Add to your LazyVim configuration:
 
 ```lua
 return {
-  "yourusername/markdown-essentials.nvim",
+  "BowTiedItaliano/markdown-essentials.nvim",
   event = "VeryLazy",
   ft = { "markdown" },
   config = function()
